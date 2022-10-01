@@ -3,7 +3,7 @@ title: "Journal Papers"
 collection: publications
 permalink:
 excerpt:
-date:
+date:2020-10-01
 venue:
 paperurl:
 citation:
