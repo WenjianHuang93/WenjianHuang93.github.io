@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Journal Papers
+### Journal Papers
 
 Zijie Jin, *Wenjian Huang*, Ning Shen, Juan Li, Xiaochen Wang, Jiqiao Dong, Peter J Park, Ruibin Xi. Single-cell gene fusion detection by scFusion[J]. Nature communications, 2022, 13(1): 1-12.
 
@@ -16,7 +16,7 @@ Zijie Jin, *Wenjian Huang*, Ning Shen, Juan Li, Xiaochen Wang, Jiqiao Dong, Pete
 
 Jiahao Xia, Weiwei Qu, *Wenjian Huang*, Jianguo Zhang, Xi Wang, Min Xu. Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning. CVPR 2022. [[PDF]](http://academicpages.github.io/files/paper3.pdf)
 
-## Conference Papers
+### Conference Papers
 
 <!--
 ## Locations of key files/directories
