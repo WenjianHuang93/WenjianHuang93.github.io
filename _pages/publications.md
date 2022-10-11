@@ -24,9 +24,9 @@ Hao Li, Bo Li, *Wenjian Huang*, Li Dong, Jue Zhang. Flow artifact removal in car
 
 ### Conference Papers
 
-*Wenjian Huang*, Hao Wang, Jiahao Jia, Chengyan Wang, Jianguo Zhang. "Density-driven Out-of-distribution Detection" <i>NeurIPS 2022</i>. [[Code]](http://WenjianHuang93.github.io/files/paper1.pdf)
+*Wenjian Huang*, Hao Wang, Jiahao Jia, Chengyan Wang, Jianguo Zhang. "Density-driven Out-of-distribution Detection" <i>NeurIPS 2022</i>. [[Code]](http://WenjianHuang93.github.io/files/OOD_DDR.zip)
 
-Jiahao Xia, Weiwei Qu, *Wenjian Huang*, Jianguo Zhang, Xi Wang, Min Xu. Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning. <i>CVPR 2022</i>. [[PDF]](http://academicpages.github.io/files/paper3.pdf)
+Jiahao Xia, Weiwei Qu, *Wenjian Huang*, Jianguo Zhang, Xi Wang, Min Xu. Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning. <i>CVPR 2022</i>.
 
 <!--
 ## Locations of key files/directories
