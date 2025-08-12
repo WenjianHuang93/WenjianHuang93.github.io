@@ -7,15 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
-## Professional Service
-
 - **Conference reviewer for**
-  - AAAI (xx)
-  - NeurIPS (xx)
-  - CVPR (xx)
-  - ICCV (xx)
-  - ECCV (xx)
-  - ICLR (xx)
+  - Conference Program Committee, AAAI (xx)
+  - Conference Reviewer, NeurIPS (xx)
+  - Conference Reviewer, CVPR (xx)
+  - Conference Reviewer, ICCV (xx)
+  - Conference Reviewer, ECCV (xx)
+  - Conference Reviewer, ICLR (xx)
 
 - **Journal reviewer for**
   - Journal of Magnetic Resonance Imaging (xx)
