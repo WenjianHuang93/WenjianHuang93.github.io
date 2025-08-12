@@ -41,3 +41,4 @@ redirect_from:
   - Medical Physics
   - Access
   - Physics in Medicine and Biology
+  - Expert System with Applications?
