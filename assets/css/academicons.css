@@ -184,10 +184,10 @@
 .ai-pubmed-square:before {
   content: "\e853";
 }
-.ai-researchgate:before {
+.ai-openreview:before {
   content: "\e854";
 }
-.ai-researchgate-square:before {
+.ai-openreview-square:before {
   content: "\e855";
 }
 .ai-scirate:before {
