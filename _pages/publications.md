@@ -23,6 +23,7 @@ Guiping Cao, **Wenjian Huang**, Xiangyuan Lan, Jianguo Zhang, Dongmei Jiang, Yao
 
 Guiping Cao, Xiangyuan Lan, **Wenjian Huang**, Jianguo Zhang, Dongmei Jiang, Yaowei Wang. DS-Det: Single-Query Paradigm and Attention Disentangled Learning for Flexible Object Detection[C]. <i>ACMMM</i>, 2025. [[Paper]](https://www.arxiv.org/abs/2507.19807)
 
+Yao Wang, Dong Yang, Zhi Qiao, **Wenjian Huang**, Liuzhi Yang, Zhen Qian. SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection [C]. <i>IPMI</i>, 2025. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96628-6_1)
 
 ### 2024
 
