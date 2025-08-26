@@ -48,6 +48,7 @@ Jiahao Xia, Min Xu, Haimin Zhang, Jianguo Zhang, **Wenjian Huang**, Hu Cao, Ship
 
 Chao Li, **Wenjian Huang**, Xi Chen, Yiran Wei, Lipei Zhang, Jianguo Zhang, Stephen Price, Carola-Bibiane Schönlieb. Expectation-maximization regularised deep learning for tumour segmentation [C]. <i>ISBI</i>, 2023.[[Paper]](https://ieeexplore.ieee.org/abstract/document/10230573)
 
+Daoan Zhang, Chenming Li, Haoquan Li, **Wenjian Huang**, Lingyun Huang, Jianguo Zhang. Rethinking Alignment and Uniformity in Unsupervised Image Semantic Segmentation [C]. <i>AAAI</i>, 2023. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26325)
 
 ### 2022
 
@@ -58,8 +59,6 @@ Chao Li, **Wenjian Huang**, Xi Chen, Yiran Wei, Lipei Zhang, Jianguo Zhang, Step
 Zijie Jin, **Wenjian Huang**, Ning Shen, Juan Li, Xiaochen Wang, Jiqiao Dong, Peter J Park, Ruibin Xi. Single-cell gene fusion detection by scFusion [J]. <i>Nature Communications</i>, 2022, 13(1): 1-12. [[Paper]](https://www.nature.com/articles/s41467-022-28661-6) [[Code]](https://github.com/XiDsLab/scFusion)
 
 Jiahao Xia, Weiwei Qu, **Wenjian Huang**, Jianguo Zhang, Xi Wang, Min Xu. Sparse local patch transformer for robust face alignment and landmarks inherent relation learning [C]. <i>CVPR</i>, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Sparse_Local_Patch_Transformer_for_Robust_Face_Alignment_and_Landmarks_CVPR_2022_paper.pdf) [[Code]](https://github.com/Jiahao-UTS/SLPT-master) 
-
-Daoan Zhang, Chenming Li, Haoquan Li, **Wenjian Huang**, Lingyun Huang, Jianguo Zhang. Rethinking Alignment and Uniformity in Unsupervised Image Semantic Segmentation [C]. <i>AAAI</i>, 2023. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26325)
 
 
 ### Earlier
