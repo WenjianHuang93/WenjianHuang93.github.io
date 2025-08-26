@@ -11,7 +11,7 @@ redirect_from:
 
 **Wenjian Huang**, Guiping Cao, Jiahao Xia, Jingkun Chen, Hao Wang, Jianguo Zhang. H-calibration: Rethinking Classifier Recalibration with Probabilistic Error-Bounded Objective[J]. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 2025, Early Access. [[Paper]](https://arxiv.org/abs/2506.17968) [[Code]](https://github.com/WenjianHuang93/h-Calibration)
 
-Jingkun Chen, **Wenjian Huang**, Jianguo Zhang, Kurt Debattista, Jungong Han. Addressing inconsistent labeling with cross image matching for scribble-based medical image segmentation [J]. <i>IEEE Transactions on Image Processing</i>, 2015, 34: 842-853. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10851813) [[Code]](https://github.com/jingkunchen/scribble-medical-segmentation)
+Jingkun Chen, **Wenjian Huang**, Jianguo Zhang, Kurt Debattista, Jungong Han. Addressing inconsistent labeling with cross image matching for scribble-based medical image segmentation [J]. <i>IEEE Transactions on Image Processing</i>, 2025, 34: 842-853. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10851813) [[Code]](https://github.com/jingkunchen/scribble-medical-segmentation)
 
 Jiahao Xia, Min Xu, **Wenjian Huang**, Jianguo Zhang, Haimin Zhang, Chunxia Xiao. Mitigating Knowledge Discrepancies among Multiple Datasets for Task-agnostic Unified Face Alignment [J]. <i>International Journal of Computer Vision</i>, 2025, In Press. [[Paper]](https://arxiv.org/abs/2503.22359) [[Code]](https://github.com/Jiahao-UTS/TUFA)
 
