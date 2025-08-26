@@ -15,7 +15,7 @@ Previously, I was a Postdoctoral Researcher in the Department of Computer Scienc
 ## Education
 - **PhD in Mechanics (Concentration in Machine Learning)**    
   Academy for Advanced Interdisciplinary Studies, Peking University (2015 – 2020)  
-  - 🌟 Dec 2018: First Prize, 15th Huawei Cup China Post-Graduate Mathematical Contest in Modeling
+  - 🌟 Dec 2018: First Prize, 15th Huawei Cup China Post-Graduate Mathematical Contest in Modeling  
     *(with Yunfei Long, Hao Yan)*
   - 🌟 Dec 2019: Merit Student, Peking University  
 
