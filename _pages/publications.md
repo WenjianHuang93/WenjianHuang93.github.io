@@ -25,6 +25,8 @@ Guiping Cao, Xiangyuan Lan, **Wenjian Huang**, Jianguo Zhang, Dongmei Jiang, Yao
 
 Yao Wang, Dong Yang, Zhi Qiao, **Wenjian Huang**, Liuzhi Yang, Zhen Qian. SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection [C]. <i>IPMI</i>, 2025. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96628-6_1)
 
+Jincan Lou, Jingkun Chen, Haoquan Li, Hang Li, **Wenjian Huang**, Weihua Chen, Fan Wang, Jianguo Zhang. CoSSeg-TTA: Contrast-Aware Semi-Supervised Segmentation with Domain Generalization and Test-Time Adaptation [C]. <i>MICCAI Workshop</i> [[Paper]](https://arxiv.org/abs/2510.04243) [[Monster Team, Best Performance Award of CARE-Liver Segmentation Challenging]](http://WenjianHuang93.github.io/files/OOD_DDR.zip)
+
 ### 2024
 
 Jiahao Xia, **Wenjian Huang**, Min Xu, Jianguo Zhang, Haimin Zhang, Ziyu Sheng, Dong Xu. Unsupervised Part Discovery via Dual Representation Alignment[J]. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 2024, 46(12): 10597-10613. [[Paper]](https://arxiv.org/abs/2408.08108) [[Code]](https://github.com/jiahao-uts/unsupervisedpart)
