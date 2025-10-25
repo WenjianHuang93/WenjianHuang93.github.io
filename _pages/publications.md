@@ -9,17 +9,17 @@ redirect_from:
 
 ### 2025
 
-**Wenjian Huang**, Guiping Cao, Jiahao Xia, Jingkun Chen, Hao Wang, Jianguo Zhang. H-calibration: Rethinking Classifier Recalibration with Probabilistic Error-Bounded Objective[J]. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 2025, 47(10), 9023-9042. [[Paper]](https://arxiv.org/abs/2506.17968) [[Code]](https://github.com/WenjianHuang93/h-Calibration)
+**Wenjian Huang**, Guiping Cao, Jiahao Xia, Jingkun Chen, Hao Wang, Jianguo Zhang. H-calibration: Rethinking Classifier Recalibration with Probabilistic Error-Bounded Objective[J]. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 2025, 47(10): 9023-9042. [[Paper]](https://arxiv.org/abs/2506.17968) [[Code]](https://github.com/WenjianHuang93/h-Calibration)
 
 Jingkun Chen, **Wenjian Huang**, Jianguo Zhang, Kurt Debattista, Jungong Han. Addressing Inconsistent Labeling with Cross Image Matching for Scribble-based Medical Image Segmentation [J]. <i>IEEE Transactions on Image Processing</i>, 2025, 34: 842-853. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10851813) [[Code]](https://github.com/jingkunchen/scribble-medical-segmentation)
 
-Jiahao Xia, Min Xu, **Wenjian Huang**, Jianguo Zhang, Haimin Zhang, Chunxia Xiao. Mitigating Knowledge Discrepancies among Multiple Datasets for Task-agnostic Unified Face Alignment [J]. <i>International Journal of Computer Vision</i>, 2025, In Press. [[Paper]](https://arxiv.org/abs/2503.22359) [[Code]](https://github.com/Jiahao-UTS/TUFA)
+Jiahao Xia, Min Xu, **Wenjian Huang**, Jianguo Zhang, Haimin Zhang, Chunxia Xiao. Mitigating Knowledge Discrepancies among Multiple Datasets for Task-agnostic Unified Face Alignment [J]. <i>International Journal of Computer Vision</i>, 2025. [[Paper]](https://arxiv.org/abs/2503.22359) [[Code]](https://github.com/Jiahao-UTS/TUFA)
 
 Guiping Cao, Tao Wang, **Wenjian Huang**, Xiangyuan Lan, Jianguo Zhang, Dongmei Jiang. Open-Det: An Efficient Learning Framework for Open-Ended Detection [C]. <i>ICML</i>, 2025. [[Paper]](https://arxiv.org/abs/2505.20639) [[Code]](https://github.com/Med-Process/Open-Det)
 
 Jiahao Xia, Yike Wu, **Wenjian Huang**, Jianguo Zhang, Jian Zhang. Unsupervised Part Discovery via Descriptor-Based Masked Image Restoration with Optimized Constraints [C]. <i>ICCV</i>, 2025. [[Paper]](https://arxiv.org/abs/2507.11985)[[Code]](https://github.com/Jiahao-UTS/MPAE)
 
-Guiping Cao, **Wenjian Huang**, Xiangyuan Lan, Jianguo Zhang, Dongmei Jiang, Yaowei Wang. Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection [J]. <i>IEEE Transactions on Multimedia</i>, 2025, Early Access. [[Paper]](https://arxiv.org/abs/2505.21868)
+Guiping Cao, **Wenjian Huang**, Xiangyuan Lan, Jianguo Zhang, Dongmei Jiang, Yaowei Wang. Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection [J]. <i>IEEE Transactions on Multimedia</i>, 2025, 27: 7369-7379. [[Paper]](https://arxiv.org/abs/2505.21868)
 
 Guiping Cao, Xiangyuan Lan, **Wenjian Huang**, Jianguo Zhang, Dongmei Jiang, Yaowei Wang. DS-Det: Single-Query Paradigm and Attention Disentangled Learning for Flexible Object Detection[C]. <i>ACMMM</i>, 2025. [[Paper]](https://www.arxiv.org/abs/2507.19807)[[Code]](https://github.com/Med-Process/DS-Det)
 
