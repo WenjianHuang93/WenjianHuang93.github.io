@@ -58,7 +58,7 @@ Daoan Zhang, Chenming Li, Haoquan Li, **Wenjian Huang**, Lingyun Huang, Jianguo 
 
 ### 2022
 
-**Wenjian Huang**, Hao Wang, Jiahao Jia, Chengyan Wang, Jianguo Zhang. Density-driven Out-of-distribution Detection [C]. <i>NeurIPS, 2022</i>. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/05b69cc4c8ff6e24c5de1ecd27223d37-Abstract-Conference.html) [[Code]](http://WenjianHuang93.github.io/files/OOD_DDR.zip](https://github.com/WenjianHuang93/releases/tree/main/OOD_DDR))
+**Wenjian Huang**, Hao Wang, Jiahao Jia, Chengyan Wang, Jianguo Zhang. Density-driven Out-of-distribution Detection [C]. <i>NeurIPS, 2022</i>. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/05b69cc4c8ff6e24c5de1ecd27223d37-Abstract-Conference.html) [[Code]](http://WenjianHuang93.github.io/files/OOD_DDR.zip](https://github.com/WenjianHuang93/releases/tree/main/OOD_DDR)
 
 **Wenjian Huang**, Weizheng Gao, Chao Hou, Dongxiao Zhang, Xiaoying Wang, Jue Zhang. Simultaneous Vessel Segmentation and Unenhanced Prediction using Self-supervised Dual-task Learning in 3D CTA (SVSUP) [J]. <i>Computer Methods and Programs in Biomedicine</i>, 2022, 224: 107001. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0169260722003832)
 
