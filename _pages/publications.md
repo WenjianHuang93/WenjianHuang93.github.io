@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### 2026
 
-Yuchen Bao, Yiting Wang, **Wenjian Huang**, Haowei Wang, Shen Chen, Taiping Yao, Shouhong Ding, Jianguo Zhang. TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing [C]. <i>AAAI</i>, 2026.
+Yuchen Bao, Yiting Wang, **Wenjian Huang**, Haowei Wang, Shen Chen, Taiping Yao, Shouhong Ding, Jianguo Zhang. TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing [C]. <i>AAAI</i>, 2026. [[Paper]](https://arxiv.org/abs/2511.13399) [[Code]](https://github.com/yusenbao01/TripleFDS)
 
 ### 2025
 
