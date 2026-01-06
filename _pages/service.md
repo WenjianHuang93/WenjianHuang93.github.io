@@ -23,8 +23,9 @@ redirect_from:
   <!-- - Reviewer, ICIG (1) # ICIG21, CMT3 (1); # sustech email record around 2021.6.11. -->
 
   
-- **Journal reviewer for** <!-- **(numbers)** --> 
+- **Journal reviewer for** <!-- **(numbers)** -->
   - Distinguished Reviewer, IEEE Transactions on Medical Imaging <!-- (12) --> <!-- scholarone system records on account welkin_y@126.com -->
+  - npj Digital Medicine (Nature Portfolio) <!-- (12) --> <!-- springer nature system records on account wjhuang@pku.edu.cn, sustech email record 2026.1.06 -->
   - IEEE Transactions on Image Processing <!-- (1) --> <!-- email record around 2024.10.12. -->
   - IEEE Transactions on Consumer Electronics <!-- (1) --> <!-- email record around 2024.3.16 -->
   - Pattern Recognition <!-- (1) --> <!-- email record around 2025.5.4. -->
