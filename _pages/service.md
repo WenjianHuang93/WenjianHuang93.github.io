@@ -14,8 +14,10 @@ redirect_from:
   - Reviewer, ICLR <!-- (3) --> <!-- ICLR25, OpenReview, (3); ICLR24, OpenReview, (0); ICLR23, OpenReview, (0); ICLR22, OpenReview, (0); ICLR21, OpenReview, (0); -->
   - Reviewer, NeurIPS <!-- (2) --> <!-- NeurIPS25,  OpenReview, (2); NeurIPS24,  OpenReview, (0);  NeurIPS23,  OpenReview, (0);  NeurIPS22,  OpenReview, (0);  NeurIPS21,  OpenReview, (0); -->
   - Program Committee, AAAI <!-- (4) --> <!-- AAAI26, OpenReview, (4); AAAI25, OpenReview (0);  AAAI24, CMT3 (0); AAAI23, CMT3 (0); AAAI22, CMT3 (0); AAAI21, CMT3 (0); -->
-  - Reviewer, ACMMM <!-- (3) --> <!-- MM25, OpenReview, (3); MM24, OpenReview, (0); MM23, OpenReview, (0); MM22, OpenReview, (0); MM21, (0); -->
+  - Program Committee, ACMMM <!-- (3) --> <!-- MM26, OpenReview; MM25, (?), OpenReview, (3); MM24, OpenReview, (0); MM23, OpenReview, (0); MM22, OpenReview, (0); MM21, (0); -->
+  - Program Committee, ICMR <!-- (?) --> <!-- ICMR26, EasyChair, (?); -->
   - Reviewer, WACV <!-- (4) --> <!-- WACV26, OpenReview, (4); WACV2x, (0); -->
+  - Reviewer, BMVC <!-- (?) --> <!-- BMVC26, OpenReview, (?); -->
   <!-- - Reviewer, IJCAI (0) # IJCAI25, CMT3, (0); IJCAI24, CMT3, (0); IJCAI2x, CMT3, (0); -->
   <!-- - Reviewer, IJCB # reviewed for IJCB21 w/o email record; -->
   <!-- - Reviewer, ACCV (0) # ACCV2x, (0); -->
