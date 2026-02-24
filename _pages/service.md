@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-- **Conference reviewer for** <!-- **(numbers)** --> 
+- **Conference service for** <!-- **(numbers)** --> 
   - Reviewer, CVPR <!-- (13) --> <!-- CVPR25, OpenReview, (4);  CVPR24, OpenReview, (6);  CVPR23, OpenReview, (3);  CVPR22, CMT3, (0);  CVPR21, CMT3, (0); -->  
   - Reviewer, ECCV <!-- (6) --> <!-- ECCV24, CMT3, (6); # ECCV22, CMT3, (0); -->
   - Reviewer, ICCV <!-- (5) --> <!-- ICCV25, OpenReview, (4); ICCV23, CMT3, (1);  ICCV21, CMT3, (0); -->
@@ -25,15 +25,15 @@ redirect_from:
   <!-- - Reviewer, ICIG (1) # ICIG21, CMT3 (1); # sustech email record around 2021.6.11. -->
 
   
-- **Journal reviewer for** <!-- **(numbers)** -->
+- **Journal service for** <!-- **(numbers)** -->
   - Distinguished Reviewer, IEEE Transactions on Medical Imaging <!-- (12) --> <!-- scholarone system records on account welkin_y@126.com -->
-  - npj Digital Medicine (Nature Portfolio) <!-- (12) --> <!-- springer nature system records on account wjhuang@pku.edu.cn, sustech email record 2026.1.06 -->
-  - IEEE Transactions on Image Processing <!-- (1) --> <!-- email record around 2024.10.12. -->
-  - IEEE Transactions on Consumer Electronics <!-- (1) --> <!-- email record around 2024.3.16 -->
-  - Pattern Recognition <!-- (1) --> <!-- email record around 2025.5.4. -->
-  - IEEE Journal of Biomedical and Health Informatics <!-- (2) --> <!-- email record around 2025.6.24 and 2025.8.12. -->
-  - Journal of Magnetic Resonance Imaging <!-- (1) --> <!-- email record around 2024.12.30; -->
-  - European Journal of Nuclear Medicine and Molecular Imaging <!-- (1) --> <!-- email record around 2025.8.11.-->
+  - Reviewer, npj Digital Medicine (Nature Portfolio) <!-- (12) --> <!-- springer nature system records on account wjhuang@pku.edu.cn, sustech email record 2026.1.06 -->
+  - Reviewer, IEEE Transactions on Image Processing <!-- (1) --> <!-- email record around 2024.10.12. -->
+  - Reviewer, IEEE Transactions on Consumer Electronics <!-- (1) --> <!-- email record around 2024.3.16 -->
+  - Reviewer, Pattern Recognition <!-- (1) --> <!-- email record around 2025.5.4. -->
+  - Reviewer, IEEE Journal of Biomedical and Health Informatics <!-- (2) --> <!-- email record around 2025.6.24 and 2025.8.12. -->
+  - Reviewer, Journal of Magnetic Resonance Imaging <!-- (1) --> <!-- email record around 2024.12.30; -->
+  - Reviewer, European Journal of Nuclear Medicine and Molecular Imaging <!-- (1) --> <!-- email record around 2025.8.11.-->
   <!-- - IEEE Transactions on Neural Networks and Learning Systems (0) -->
   <!-- - IEEE Transactions on Multimedia (0) -->
-  - Phenomics <!-- (1) --> <!-- email record around 2021.5.16 -->
+  - Reviewer, Phenomics <!-- (1) --> <!-- email record around 2021.5.16 -->
