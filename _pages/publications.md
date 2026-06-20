@@ -10,6 +10,8 @@ redirect_from:
 
 Yuchen Bao, Yiting Wang, **Wenjian Huang**, Haowei Wang, Shen Chen, Taiping Yao, Shouhong Ding, Jianguo Zhang. TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing [C]. <i>AAAI</i>, 2026. [[Paper]](https://arxiv.org/abs/2511.13399) [[Code]](https://github.com/yusenbao01/TripleFDS)
 
+Jinglong Yang, Jiaxuan He, **Wenjian Huang**, Zhan Zhuang, Jianguo Zhang. Curvature-Guided Mixing for MLLM Adaptation[C]. <i>ECCV</i>, 2026. to appear.
+
 Jinglong Yang, Penghui Zhou, Yipeng Zhang, Hao Wang, **Wenjian Huang**, Yifan Wu, Jianguo Zhang. VoidFormer: Mitigating Attention Distortion for Multimodal Learning Under Missing Modality [C]. <i>ICME</i>, 2026. to appear.
 
 
