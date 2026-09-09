@@ -27,7 +27,7 @@ Guiping Cao, Tao Wang, **Wenjian Huang**, Xiangyuan Lan, Jianguo Zhang, Dongmei 
 
 Jiahao Xia, Yike Wu, **Wenjian Huang**, Jianguo Zhang, Jian Zhang. Unsupervised Part Discovery via Descriptor-Based Masked Image Restoration with Optimized Constraints [C]. <i>ICCV</i>, 2025. [[Paper]](https://arxiv.org/abs/2507.11985)[[Code]](https://github.com/Jiahao-UTS/MPAE)
 
-Guiping Cao, **Wenjian Huang**, Xiangyuan Lan, Jianguo Zhang, Dongmei Jiang, Yaowei Wang. Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection [J]. <i>IEEE Transactions on Multimedia</i>, 2025, 27: 7369-7379. [[Paper]](https://arxiv.org/abs/2505.21868)
+Guiping Cao, **Wenjian Huang**, Xiangyuan Lan, Jianguo Zhang, Dongmei Jiang, Yaowei Wang. Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection [J]. <i>IEEE Transactions on Multimedia</i>, 2025, 27: 7369-7379. [[Paper]](https://arxiv.org/abs/2505.21868)[[Code]](https://github.com/Med-Process/Cross_DINO)
 
 Guiping Cao, Xiangyuan Lan, **Wenjian Huang**, Jianguo Zhang, Dongmei Jiang, Yaowei Wang. DS-Det: Single-Query Paradigm and Attention Disentangled Learning for Flexible Object Detection[C]. <i>ACMMM</i>, 2025. [[Paper]](https://www.arxiv.org/abs/2507.19807)[[Code]](https://github.com/Med-Process/DS-Det)
 
