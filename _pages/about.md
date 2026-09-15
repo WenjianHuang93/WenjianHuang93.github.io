@@ -38,7 +38,7 @@ Previously, I was a Postdoctoral Researcher in the Department of Computer Scienc
   Southern University of Science and Technology (2021 – 2023)  
   - 🌟  Jan, 2023: SUSTech Presidential Outstanding Postdoctoral Fellow  
 
-- **Research Intern**, Department of Applied Mathematics and Theoretical Physics,  
+- **Visiting Scholar**, Department of Applied Mathematics and Theoretical Physics,  
   University of Cambridge (2019 – 2020)
   
 
