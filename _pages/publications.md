@@ -12,6 +12,8 @@ Yuchen Bao, Yiting Wang, **Wenjian Huang**, Haowei Wang, Shen Chen, Taiping Yao,
 
 Jinglong Yang, Jiaxuan He, **Wenjian Huang**, Zhan Zhuang, Jianguo Zhang. Curvature-Guided Mixing for MLLM Adaptation[C]. <i>ECCV</i>, 2026. [[Paper]](https://arxiv.org/pdf/2606.24963) [[Code]](https://github.com/zzsyjl/CGM-ECCV-2026)
 
+Jinglong Yang, Yichen Wu, Jun Cen, **Wenjian Huang**, Hong Wang, Jianguo Zhang. Continual Learning for Segment Anything Model Adaptation [J]. <i>Pattern Recognition</i>, 2026. to appear. [[Paper]](https://arxiv.org/abs/2412.06418)[[Code]](https://github.com/yangjl1215/CoSAM)
+
 Jinglong Yang, Penghui Zhou, Yipeng Zhang, Hao Wang, **Wenjian Huang**, Yifan Wu, Jianguo Zhang. VoidFormer: Mitigating Attention Distortion for Multimodal Learning Under Missing Modality [C]. <i>ICME</i>, 2026. to appear.
 
 
